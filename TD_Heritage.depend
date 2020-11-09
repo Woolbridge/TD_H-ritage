@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1604876557 source:c:\users\ghaba\desktop\prog\td_heritage\main.cpp
+	<iostream>
+	"vehicule.h"
+	"voiture.h"
+	"avion.h"
+
+1604876498 c:\users\ghaba\desktop\prog\td_heritage\include\voiture.h
+	"vehicule.h"
+
+1604874280 c:\users\ghaba\desktop\prog\td_heritage\include\vehicule.h
+	<string.h>
+	<iostream>
+
+1604873331 source:c:\users\ghaba\desktop\prog\td_heritage\src\vehicule.cpp
+	"vehicule.h"
+	"iostream"
+
+1604876414 source:c:\users\ghaba\desktop\prog\td_heritage\src\avion.cpp
+	"avion.h"
+
+1604875226 c:\users\ghaba\desktop\prog\td_heritage\include\avion.h
+	"vehicule.h"
+
+1604876747 source:c:\users\ghaba\desktop\prog\td_heritage\src\voiture.cpp
+	"voiture.h"
+	<string.h>
+
